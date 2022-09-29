@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 abcd
 
  name = jochem
 aaaa
 bbb
 ssss
+=======
+a
+>>>>>>> parent of 158fccc (shit)

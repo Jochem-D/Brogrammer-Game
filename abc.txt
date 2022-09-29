@@ -4,7 +4,11 @@ abcd
  name = jochem
 aaaa
 bbb
+<<<<<<< HEAD
 ssss
 =======
 a
 >>>>>>> parent of 158fccc (shit)
+=======
+
+>>>>>>> parent of e969ab8 (added the one piece)

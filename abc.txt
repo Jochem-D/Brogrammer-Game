@@ -5,10 +5,14 @@ abcd
 aaaa
 bbb
 <<<<<<< HEAD
+<<<<<<< HEAD
 ssss
 =======
 a
 >>>>>>> parent of 158fccc (shit)
+=======
+
+>>>>>>> parent of e969ab8 (added the one piece)
 =======
 
 >>>>>>> parent of e969ab8 (added the one piece)
